@@ -1,11 +1,9 @@
-# 💫 𝖯𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈: 𝖯𝗂𝗒𝗎𝗌𝗁 𝖭𝖾𝗀𝗂
-
 ## ⚡ 𝖠𝖻𝗈𝗎𝗍 𝖬𝖾
 <br>
 
-> 👋 **Hi, I'm Piyush!** A passionate developer building the future one commit at a time.
+> 👋 **Hi, I'm Piyush!
 
-* 🚀 **Backend Developer** focused on scalable solutions.
+* 🚀 **Backend Developer** 
 * 🌐 Exploring **Networking & System Design**.
 * 🤝 Passionate about **Open Source** & Hackathons.
 * 🤖 Interested in **AI + Real-world** problem solving.
