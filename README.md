@@ -1,7 +1,7 @@
 ## ⚡ 𝖠𝖻𝗈𝗎𝗍 𝖬𝖾
 <br>
 
-> 👋 **Hi, I'm Piyush!
+> 👋 **Hi, I'm Piyush!**
 
 * 🚀 **Backend Developer** 
 * 🌐 Exploring **Networking & System Design**.
