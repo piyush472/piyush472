@@ -35,6 +35,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 # 📊 GitHub Stats:
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush472&theme=react-dark&bg_color=0d1117&hide_border=false)
+
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=piyush472&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=piyush472&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush472&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
